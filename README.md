@@ -1,1 +1,2 @@
 # spectrum-dd
+Author- directive
